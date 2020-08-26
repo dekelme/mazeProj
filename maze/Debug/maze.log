@@ -1,0 +1,6 @@
+﻿  exseptions.h
+C:\Users\User\Documents\Programing 4\mazeProj\maze\exseptions.h(4,17): error C2011: 'Exception': 'class' type redefinition
+C:\Users\User\Documents\Programing 4\mazeProj\maze\exseptions.h(4): message : see declaration of 'Exception'
+  generator.cpp
+  tmp4.cpp
+  Generating Code...
